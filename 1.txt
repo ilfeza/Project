@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 aaaa bbb
 ccccc
 22222222
+=======
+AAA BBBB
+CCCC
+11111111111
+>>>>>>> third
+3333333333
